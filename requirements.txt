@@ -1,0 +1,4 @@
+openai
+google-generativeai
+anthropic
+# requests # Uncomment if any API requires direct HTTP calls instead of its SDK

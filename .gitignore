@@ -1,0 +1,81 @@
+# Configuration file with API keys (contains sensitive information)
+config.ini
+
+# Conversation log files (may contain large amounts of data)
+conversation_log.txt
+conversation_alone.txt
+
+# Python virtual environments
+venv/
+*.venv/
+ENV/
+env/
+ENV_DIR/
+env_dir/
+.env
+.venv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Personal configuration backups (in case user creates them)
+config.real.ini
+config.backup.ini
+config.local.ini
+
+# Memory bank and development files (not needed for public repository)
+memory-bank/
+
+# Example conversation files and outputs
+Debate Filosófico.txt
+philosophical debate.txt
+Phylosophycal debate.txt
+chat_display.html
+nuevaconversa.html
